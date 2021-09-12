@@ -4,7 +4,7 @@
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RoaaMustafa)](https://github.com/anuraghazra/github-readme-stats) -->
 
 # Hello, I'm Roaa Mustafa 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RoaaMustafa&show_icons=true&theme=onedark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RoaaMustafa&show_icons=true&theme=radical)
 
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RoaaMustafa)](https://github.com/anuraghazra/github-readme-stats) -->
